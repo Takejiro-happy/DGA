@@ -93,4 +93,4 @@ if st.button("診断実行"):
         
         # 診断結果の強調表示
         st.success(f"### 診断結果: {diag}")
-        st.info(f"計算値: CH₄={C1:.1f}%, C₂H₄={C2:.1f}%, C₂H₂={C3:.1f}%")
+        st.info(f"Calculated Values: CH4={C1:.1f}%, C2H4={C2:.1f}%, C2H2={C3:.1f}%")
