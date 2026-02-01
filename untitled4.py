@@ -14,7 +14,6 @@ drive.mount('/content/drive')
 
 os.chdir("/content/drive/MyDrive/海外実務訓練_Nam先生_研究")
 
-!pip install japanize_matplotlib
 
 !pip install scikit-image
 
