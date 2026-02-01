@@ -14,10 +14,6 @@ drive.mount('/content/drive')
 
 os.chdir("/content/drive/MyDrive/海外実務訓練_Nam先生_研究")
 
-
-!pip install scikit-image
-
-!pip install streamlit
 import streamlit as st
 
 # タイトル
