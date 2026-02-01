@@ -23,7 +23,7 @@ def pct_to_xy(c2, c3):
     return c2/100 + c1/200, (c1/100)*np.sqrt(3)/2
 
 # --- Streamlit UI Configuration ---
-st.title("Duval Triangle 1 Diagnostic Tool")
+st.title("Duval Triangle Diagnostic Tool")
 
 # Sidebar inputs in English
 st.sidebar.header("Gas Concentration (ppm)")
